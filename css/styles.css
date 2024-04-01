@@ -197,7 +197,7 @@ h1 {
 .main-portfolio-title {
   text-align: center;
 }
-.main-about-title {
+.visually-hidden {
   visibility: hidden;
 }
 .main-team-item {
